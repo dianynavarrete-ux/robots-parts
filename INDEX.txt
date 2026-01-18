@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Mi Web con Tablas</title>
+</head>
+<body bgcolor="#f0f0f0">
+
+    <table width="800" border="1" align="center" cellpadding="10" cellspacing="0" bgcolor="#ffffff">
+        
+        <tr>
+            <td colspan="2" align="center" bgcolor="#333333">
+                <font color="#ffffff" size="6"><b>BIENVENIDOS A MI SITIO WEB</b></font>
+            </td>
+        </tr>
+
+        <tr bgcolor="#dddddd">
+            <td colspan="2" align="center">
+                <a href="#">Inicio</a> | 
+                <a href="#">Servicios</a> | 
+                <a href="#">Galería</a> | 
+                <a href="#">Contacto</a>
+            </td>
+        </tr>
+
+        <tr height="400">
+            <td width="200" valign="top" bgcolor="#eeeeee">
+                <h3>Categorías</h3>
+                <ul>
+                    <li>HTML Puro</li>
+                    <li>Tablas</li>
+                    <li>Diseño Retro</li>
+                </ul>
+            </td>
+
+            <td width="600" valign="top">
+                <h2>¿Por qué usar tablas?</h2>
+                <p>Antiguamente, las tablas eran la única forma de crear columnas y filas para organizar el contenido de una página web.</p>
+                <p>En este ejemplo, estamos usando atributos como:</p>
+                <ul>
+                    <li><b>width:</b> Para el ancho de la tabla o celda.</li>
+                    <li><b>colspan:</b> Para que una celda ocupe varias columnas.</li>
+                    <li><b>align:</b> Para centrar el contenido.</li>
+                </ul>
+            </td>
+        </tr>
+
+        <tr>
+            <td colspan="2" align="center" bgcolor="#333333">
+                <font color="#ffffff" size="2">© 2026 - Creado solo con HTML</font>
+            </td>
+        </tr>
+
+    </table>
+
+</body>
+</html>

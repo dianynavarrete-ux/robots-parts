@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Electrónica - Robots-Parts</title>
+    <link rel="icon" href="logo.png" type="image/png">
+</head>
+<body bgcolor="#f4f4f4">
+
+    <table width="900" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#ffffff" style="border: 1px solid #cccccc;">
+        
+        <tr>
+            <td colspan="4" align="center" bgcolor="#2c3e50" height="120">
+                <img src="logo.png" alt="Logo" width="80"><br>
+                <font color="#ffffff" size="6" face="Arial">ROBOTS-PARTS</font>
+            </td>
+        </tr>
+
+        <tr bgcolor="#ecf0f1">
+            <td colspan="4" align="center" style="padding: 10px;">
+                <font face="Arial" size="2">
+                    <a href="index.html">INICIO</a> &nbsp;&nbsp; | &nbsp;&nbsp;
+                    <a href="accesorios.html">ACCESORIOS</a> &nbsp;&nbsp; | &nbsp;&nbsp;
+                    <a href="herramientas.html">HERRAMIENTAS</a> &nbsp;&nbsp; | &nbsp;&nbsp;
+                    <a href="electronica.html"><b>ELECTRÓNICA</b></a> &nbsp;&nbsp; | &nbsp;&nbsp;
+                    <a href="robotica.html">ROBÓTICA</a>
+                </font>
+            </td>
+        </tr>
+
+        <tr>
+            <td colspan="4" style="padding: 20px;">
+                <font face="Verdana" size="5" color="#333333">
+                    <b>Componentes Electrónicos</b>
+                </font>
+                <hr color="#21d191" size="2">
+            </td>
+        </tr>
+
+        <tr>
+            <td width="225" align="center" valign="top" style="padding: 15px;">
+                <table border="0" cellpadding="0" cellspacing="0">
+                    <tr><td align="center" height="180"><img src="2n2222.jpg" width="180" height="180" alt="2N2222" border="0"></td></tr>
+                    <tr><td align="center" height="40"><font face="Arial" size="2">2N2222 Serie 1426</font></td></tr>
+                    <tr><td align="center"><font face="Arial" size="3" color="#21d191"><b>$0.10</b></font></td></tr>
+                </table>
+            </td>
+
+            <td width="225" align="center" valign="top" style="padding: 15px;">
+                <table border="0" cellpadding="0" cellspacing="0">
+                    <tr><td align="center" height="180"><img src="2n3904.jpg" width="180" height="180" alt="2N3904" border="0"></td></tr>
+                    <tr><td align="center" height="40"><font face="Arial" size="2">2N3904 SERIE 411</font></td></tr>
+                    <tr><td align="center"><font face="Arial" size="3" color="#21d191"><b>$0.10</b></font></td></tr>
+                </table>
+            </td>
+
+            <td width="225" align="center" valign="top" style="padding: 15px;">
+                <table border="0" cellpadding="0" cellspacing="0">
+                    <tr><td align="center" height="180"><img src="2n3906.jpg" width="180" height="180" alt="2N3906" border="0"></td></tr>
+                    <tr><td align="center" height="40"><font face="Arial" size="2">2N3906 Serie 128</font></td></tr>
+                    <tr><td align="center"><font face="Arial" size="3" color="#21d191"><b>$0.10</b></font></td></tr>
+                </table>
+            </td>
+
+            <td width="225" align="center" valign="top" style="padding: 15px;">
+                <table border="0" cellpadding="0" cellspacing="0">
+                    <tr><td align="center" height="180"><img src="baquelita.jpg" width="180" height="180" alt="Baquelita" border="0"></td></tr>
+                    <tr><td align="center" height="40"><font face="Arial" size="2">Baquelita 10x10 Perforada</font></td></tr>
+                    <tr><td align="center"><font face="Arial" size="3" color="#21d191"><b>$1.70</b></font></td></tr>
+                </table>
+            </td>
+        </tr>
+
+        <tr>
+            <td colspan="4" align="center" style="padding: 40px;">
+                <hr color="#eeeeee">
+                <br>
+                <table border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                        <td bgcolor="#2c3e50" style="padding: 12px 25px; border-radius: 5px;">
+                            <a href="index.html" style="text-decoration: none;">
+                                <font color="#ffffff" face="Arial"><b>VOLVER AL INICIO</b></font>
+                            </a>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+
+        <tr>
+            <td colspan="4" align="center" bgcolor="#2c3e50" height="50">
+                <font color="#ffffff" face="Arial" size="2">Robots-Parts © 2026 - Catálogo Oficial</font>
+            </td>
+        </tr>
+
+    </table>
+
+</body>
+</html>

@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Robótica - Robots-Parts</title>
+    <link rel="icon" href="logo.png" type="image/png">
+</head>
+<body bgcolor="#f4f4f4">
+
+    <table width="900" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#ffffff" style="border: 1px solid #cccccc;">
+        
+        <tr>
+            <td colspan="4" align="center" bgcolor="#2c3e50" height="120">
+                <img src="logo.png" alt="Logo" width="80"><br>
+                <font color="#ffffff" size="6" face="Arial">ROBOTS-PARTS</font>
+            </td>
+        </tr>
+
+        <tr bgcolor="#ecf0f1">
+            <td colspan="4" align="center" style="padding: 10px;">
+                <font face="Arial" size="2">
+                    <a href="index.html">INICIO</a> &nbsp;&nbsp; | &nbsp;&nbsp;
+                    <a href="accesorios.html">ACCESORIOS</a> &nbsp;&nbsp; | &nbsp;&nbsp;
+                    <a href="herramientas.html">HERRAMIENTAS</a> &nbsp;&nbsp; | &nbsp;&nbsp;
+                    <a href="electronica.html">ELECTRÓNICA</a> &nbsp;&nbsp; | &nbsp;&nbsp;
+                    <a href="robotica.html"><b>ROBÓTICA</b></a>
+                </font>
+            </td>
+        </tr>
+
+        <tr>
+            <td colspan="4" style="padding: 20px;">
+                <font face="Verdana" size="5" color="#333333">
+                    <b>Kits de Robótica Avanzada</b>
+                </font>
+                <hr color="#21d191" size="2">
+            </td>
+        </tr>
+
+        <tr>
+            <td width="225" align="center" valign="top" style="padding: 15px;">
+                <table border="0" cellpadding="0" cellspacing="0">
+                    <tr><td align="center" height="180"><img src="kit_agua.jpg" width="180" height="180" alt="Kit Agua" border="0"></td></tr>
+                    <tr><td align="center" height="60"><font face="Arial" size="2">ACEBOTT ESP32 Lanzador de agua QD005</font></td></tr>
+                    <tr><td align="center"><font face="Arial" size="3" color="#21d191"><b>$63.90</b></font></td></tr>
+                </table>
+            </td>
+
+            <td width="225" align="center" valign="top" style="padding: 15px;">
+                <table border="0" cellpadding="0" cellspacing="0">
+                    <tr><td align="center" height="180"><img src="kit_tanque.jpg" width="180" height="180" alt="Kit Tanque" border="0"></td></tr>
+                    <tr><td align="center" height="60"><font face="Arial" size="2">ACEBOTT ESP32 Paquete tipo tanque</font></td></tr>
+                    <tr><td align="center"><font face="Arial" size="3" color="#21d191"><b>$48.50</b></font></td></tr>
+                </table>
+            </td>
+
+            <td width="225" align="center" valign="top" style="padding: 15px;">
+                <table border="0" cellpadding="0" cellspacing="0">
+                    <tr><td align="center" height="180"><img src="kit_camara.jpg" width="180" height="180" alt="Kit Camara" border="0"></td></tr>
+                    <tr><td align="center" height="60"><font face="Arial" size="2">ACEBOTT ESP32 Extensión Cámara QD001</font></td></tr>
+                    <tr><td align="center"><font face="Arial" size="3" color="#21d191"><b>$30.00</b></font></td></tr>
+                </table>
+            </td>
+
+            <td width="225" align="center" valign="top" style="padding: 15px;">
+                <table border="0" cellpadding="0" cellspacing="0">
+                    <tr><td align="center" height="180"><img src="kit_brazo.jpg" width="180" height="180" alt="Kit Brazo" border="0"></td></tr>
+                    <tr><td align="center" height="60"><font face="Arial" size="2">ACEBOTT ESP32 Kit Brazo Robótico</font></td></tr>
+                    <tr><td align="center"><font face="Arial" size="3" color="#21d191"><b>$38.00</b></font></td></tr>
+                </table>
+            </td>
+        </tr>
+
+        <tr>
+            <td colspan="4" align="center" style="padding: 40px;">
+                <hr color="#eeeeee">
+                <br>
+                <table border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                        <td bgcolor="#2c3e50" style="padding: 12px 25px; border-radius: 5px;">
+                            <a href="index.html" style="text-decoration: none;">
+                                <font color="#ffffff" face="Arial"><b>VOLVER AL INICIO</b></font>
+                            </a>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+
+        <tr>
+            <td colspan="4" align="center" bgcolor="#2c3e50" height="50">
+                <font color="#ffffff" face="Arial" size="2">Robots-Parts © 2026 - Especialistas en Robótica</font>
+            </td>
+        </tr>
+
+    </table>
+
+</body>
+</html>
